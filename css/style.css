@@ -92,7 +92,7 @@ section {
 
 header {
     width: 100%;
-    background: url(../images/footer_background.jpg) no-repeat;
+    background: url(images/footer_background.jpg) no-repeat;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -194,7 +194,7 @@ header.sticky {
 
 .home {
     min-height: 75vh;
-    background: url(../images/image3-1.png) no-repeat;
+    background: url(images/image3-1.png) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -301,7 +301,7 @@ header.sticky {
 
 .deal {
     min-height: 75vh;
-    background: url(../images/deal-bg.webp) no-repeat;
+    background: url(images/deal-bg.webp) no-repeat;
     background-size: cover;
     background-position: center;
     display: flex;
